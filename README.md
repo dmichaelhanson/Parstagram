@@ -18,7 +18,7 @@ The following functionality is completed:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here are some walkthroughs of implemented user stories:
 
 <img src='http://g.recordit.co/E0s4e2Ym7x.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
